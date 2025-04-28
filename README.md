@@ -12,3 +12,8 @@ A tool for recording one-shot samples and dumping them to files in bulk. The ide
 > MIDI manipulation REPL
 
 Manipulate and transform MIDI messages as they pass through the tool. Allows for remapping channels, randomising velocity, shifting octaves and more. Since it's a REPL, you can make it do whatever you want.
+
+### un-spaghettify
+> Automatically route MIDI connections given a list of devices and their ports.
+
+Optimises a network of devices to use the least amount of connections possible.
